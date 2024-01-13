@@ -1,4 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Spice&display=swap');
+@font-face {
+    font-family: Bungee Spice;
+    src: url(a_Bungee_Spice.ttf);
+}
+@font-face {
+    font-family: Bebas Neue;
+    src: url(a_Bebas_Neue.ttf);
+}
 *{
     margin: 0;
     padding: 0;
